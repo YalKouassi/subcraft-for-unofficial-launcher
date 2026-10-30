@@ -16,6 +16,7 @@ tagline = "Paint PBR textures directly on 3D models"
 publisher = "Aalzard"
 bundle_id = "io.github.aalzard.subcraft"   # upstream has no reverse-DNS id; a GitHub-style one is used
 website = "https://github.com/Aalzard/subcraft"
+web_demo = "https://playground.daijro.dev/head/subcraft/"   # playground.daijro.dev's build of upstream's latest commit
 color = "#fd6e02"
 
 [icon]
